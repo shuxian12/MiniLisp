@@ -1,4 +1,7 @@
 #  Mini-LISP
+
+`2023.01.13`
+
 ## Development Environment and Tools
 - MacOS 12.6
 - Python 3.10.9
